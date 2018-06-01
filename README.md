@@ -1,3 +1,13 @@
+### これはなに
+[kibousoft/viav6_web](https://github.com/kibousoft/viav6_web)を改造した何か
+
+### 使い方
+```html
+<img src="https://viav6-example.com/"/>
+```
+
+--------
+
 # viav6.kibousoft.co.jp
 
 ## How to use
